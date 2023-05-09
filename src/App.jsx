@@ -5,7 +5,7 @@ function App() {
         Start editing <code>/src/App.jsx</code>
       </span>
     </div>
-  );
+  )
 }
 
-export default App;
+export default App
